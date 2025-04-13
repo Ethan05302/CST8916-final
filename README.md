@@ -142,8 +142,6 @@ WHERE
 {"location":"Fifth Avenue","iceThickness":13,"surfaceTemperature":-3.1,"snowAccumulation":5,"externalTemperature":-6.9,"timestamp":"2025-04-13T18:10:19Z"}
 ```
 
-Full output is stored in: `sample-output/output.json`
-
 ---
 
 ## Reflection
